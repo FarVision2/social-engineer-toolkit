@@ -1,3 +1,6 @@
 {
-    "circleci.filters.branchFilter": "allBranches"
+    "circleci.filters.branchFilter": "allBranches",
+    "cSpell.words": [
+        "kagzaren"
+    ]
 }
