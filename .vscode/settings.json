@@ -2,5 +2,6 @@
     "circleci.filters.branchFilter": "allBranches",
     "cSpell.words": [
         "kagzaren"
-    ]
+    ],
+    "sarif-viewer.connectToGithubCodeScanning": "on"
 }
