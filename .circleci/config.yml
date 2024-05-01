@@ -8,12 +8,10 @@ jobs:
     steps:
       - checkout
       - run: echo "Hi I'm on Runners!"
-
 workflows:
   build-workflow:
     jobs:
       - build
-
 build-artifacts:
   working_directory: /tmp
   steps:
