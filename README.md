@@ -1,4 +1,7 @@
 # The Social-Engineer Toolkit (SET)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1fd3369b794a4e0abf719f85573f8a0a)](https://app.codacy.com/gh/FarVision2/social-engineer-toolkit?utm_source=github.com&utm_medium=referral&utm_content=FarVision2/social-engineer-toolkit&utm_campaign=Badge_Grade)
+
 * Copyright :copyright: 2020
 * Written by: David Kennedy (ReL1K) @HackingDave 
 * Company: [TrustedSec](https://www.trustedsec.com)
